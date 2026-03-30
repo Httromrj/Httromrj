@@ -1,11 +1,15 @@
 # 🚀 Rômulo Oliveira
 **`FullStack Developer | AI & Automation Specialist | DevOps Enthusiast`**
 
-Olá! Sou **Rômulo da Silva de Oliveira**, carioca, técnico em Processamento de Dados pela **FAETEC** e graduando em Análise e Desenvolvimento de Sistemas na **UVA**. 
+Olá! Sou **Rômulo da Silva de Oliveira**, carioca, técnico em Processamento de Dados pela **FAETEC** e graduando em **Análise e Desenvolvimento de Sistemas** na **UVA**. 
 
 Atualmente, foco meu trabalho na convergência entre **Desenvolvimento**, **Inteligência Artificial** e **Operações**. Tenho me dedicado à criação de ecossistemas inteligentes, utilizando **Machine Learning** e arquiteturas de **RAG (Retrieval-Augmented Generation)** para elevar o nível de resposta de IAs generativas. Além disso, estruturo fluxos complexos de automação e sigo em constante evolução na cultura **DevOps**, buscando sempre a máxima eficiência e escalabilidade nos deploys.
 
 <p align="left">
+    <a href="https://lnkd.in/dqSbCpUF" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    
     <a href="https://www.youtube.com/@romulomk?sub_confirmation=1" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-@romulomk-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
     </a>
