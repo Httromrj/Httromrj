@@ -47,9 +47,10 @@ Atualmente, foco meu trabalho na convergência entre **Desenvolvimento**, **Inte
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Httromrj&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" height="170">
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Httromrj&theme=tokyonight&layout=compact" alt="Linguagens mais usadas" height="170">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Httromrj&theme=tokyonight" alt="GitHub Streak" height="170">
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Httromrj&theme=tokyonight&layout=compact" alt="Linguagens mais usadas" height="170">
+  
 </p>
 
 
