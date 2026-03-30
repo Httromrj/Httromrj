@@ -19,7 +19,6 @@ Atualmente, foco meu trabalho na convergência entre **Desenvolvimento**, **Inte
         <img src="https://img.shields.io/github/followers/Httromrj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores">
     </a>
 </p>
-</p>
 
 ---
 
