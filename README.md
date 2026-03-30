@@ -40,6 +40,7 @@ Atualmente, foco meu trabalho na convergência entre **Desenvolvimento**, **Inte
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
+
 ---
 
 ### 📊 Minhas Estatísticas
