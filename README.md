@@ -6,18 +6,7 @@ Olá! Sou **Rômulo da Silva de Oliveira**, carioca, técnico em Processamento d
 Atualmente, foco meu trabalho na convergência entre **Desenvolvimento**, **Inteligência Artificial** e **Operações**. Tenho me dedicado à criação de ecossistemas inteligentes, utilizando **Machine Learning** e arquiteturas de **RAG (Retrieval-Augmented Generation)** para elevar o nível de resposta de IAs generativas. Além disso, estruturo fluxos complexos de automação e sigo em constante evolução na cultura **DevOps**, buscando sempre a máxima eficiência e escalabilidade nos deploys.
 
 <p align="left">
-    <a href="https://lnkd.in/dqSbCpUF" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.youtube.com/@romulomk?sub_confirmation=1" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-@romulomk-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-    </a>
-    <a href="https://github.com/Httromrj?tab=repositories&sort=stargazers" target="_blank">
-        <img src="https://img.shields.io/github/stars/Httromrj?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" alt="Total de estrelas">
-    </a>
-    <a href="https://github.com/Httromrj?tab=followers" target="_blank">
-        <img src="https://img.shields.io/github/followers/Httromrj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores">
-    </a>
+    <a href="https://lnkd.in/dqSbCpUF" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://www.youtube.com/@romulomk?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-@romulomk-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a><a href="https://github.com/Httromrj?tab=repositories&sort=stargazers" target="_blank"><img src="https://img.shields.io/github/stars/Httromrj?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" alt="Total de estrelas"></a><a href="https://github.com/Httromrj?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Httromrj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores"></a>
 </p>
 
 ---
