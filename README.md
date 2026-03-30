@@ -1,4 +1,4 @@
-# 🚀 Rômulo Oliveira
+# 👋 Rômulo Oliveira
 **`FullStack Developer | AI & Automation Specialist | DevOps Enthusiast`**
 
 Olá! Sou **Rômulo da Silva de Oliveira**, carioca, técnico em Processamento de Dados pela **FAETEC** e graduando em **Análise e Desenvolvimento de Sistemas** na **UVA**. 
