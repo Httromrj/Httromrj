@@ -1,7 +1,7 @@
 # 🚀 Rômulo Oliveira
 **`Desenvolvedor FullStack`**
 
-Olá! Me chamo **Rômulo da Silva de Oliveira**, sou do Rio de Janeiro. Tenho formação técnica em Processamento de Dados pela **FAETEC** e atualmente curso **Análise e Desenvolvimento de Sistemas na UVA**.
+Olá! Me chamo **Rômulo da Silva de Oliveira**, sou do Rio de Janeiro. Tenho formação técnica em Processamento de Dados pela **FAETEC** e atualmente curso **Análise e Desenvolvimento de Sistemas** na UVA.
 
 <p align="left">
     <a href="https://www.youtube.com/@romulomk?sub_confirmation=1" target="_blank">
