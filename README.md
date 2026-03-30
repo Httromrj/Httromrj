@@ -13,13 +13,6 @@ Atualmente, foco meu trabalho na convergência entre **Desenvolvimento**, **Inte
 
 ### 🛠️ Tecnologias e Expertises
 
-**Inteligência Artificial & Automação**
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/RAG%20Architecture-00A699?style=for-the-badge&logo=openai&logoColor=white" alt="RAG">
-  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Pipedream-000000?style=for-the-badge&logo=pipedream&logoColor=white" alt="Pipedream">
-</p>
 
 **DevOps & Banco de Dados**
 <p align="left">
@@ -30,6 +23,13 @@ Atualmente, foco meu trabalho na convergência entre **Desenvolvimento**, **Inte
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 </p>
 
+**Inteligência Artificial & Automação**
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/RAG%20Architecture-00A699?style=for-the-badge&logo=openai&logoColor=white" alt="RAG">
+  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Pipedream-000000?style=for-the-badge&logo=pipedream&logoColor=white" alt="Pipedream">
+</p>
 
 **Frontend & Backend**
 <p align="left">
