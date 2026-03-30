@@ -10,11 +10,15 @@ Atualmente, foco meu trabalho na convergência entre **Desenvolvimento**, **Inte
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://www.youtube.com/@romulomk?sub_confirmation=1" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-@romulomk-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
+        <img src="https://img.shields.io/badge/YouTube-@romulomk-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
     </a>
-    <a href="https://github.com/Httromrj" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <a href="https://github.com/Httromrj?tab=repositories&sort=stargazers" target="_blank">
+        <img src="https://img.shields.io/github/stars/Httromrj?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" alt="Total de estrelas">
     </a>
+    <a href="https://github.com/Httromrj?tab=followers" target="_blank">
+        <img src="https://img.shields.io/github/followers/Httromrj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores">
+    </a>
+</p>
 </p>
 
 ---
