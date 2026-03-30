@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Rômulo Oliveira](https://www.youtube.com/)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/)".
+Me chamo Rômulo da Silva de Oliveira, tenho 37 anos e sou natural do Rio de Janeiro. Concluí o ensino médio na FAETEC, com o curso técnico em Processamento de Dados. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UVA. 
 
 <p align="left">
     <a href="https://www.youtube.com/@httromrj?sub_confirmation=1">
